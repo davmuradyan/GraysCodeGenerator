@@ -15,9 +15,9 @@ GenerateGraysCode(2);
 ________________________________
 Output:
 
-00
-01
-11
+00\n
+01\n
+11\n
 10
 
 Number 2 is 11 in Gray's code
