@@ -8,13 +8,13 @@ The entered number should be non-negative.
 Example of using:
 ________________________________
 Code:
-________________________________
+
 
 GenerateGraysCode(2);
 
 ________________________________
 Output:
-________________________________
+
 00
 01
 11
